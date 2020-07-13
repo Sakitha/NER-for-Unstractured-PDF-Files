@@ -1,9 +1,9 @@
 # Unstractured_PDF_DATA
 experimental architecture to model sequential independent input data.
 
-idea is to from named entity recognition algorithm which tries to classify entities from sentences.typycally this don by lstm network with a crf layer. here i have tried to replace lstm recurrent cells with a feedforward net in a loop as LSTM has the vanishing gradient problem when it comes to a long sequence.
+idea is from named entity recognition algorithm which tries to classify entities from sentences.typycally this is done by lstm network with a crf layer. here i have tried to replace lstm recurrent cells with a feedforward net in a loop since LSTM has the vanishing gradient problem when it comes to a long sequences.
 
-I have formed the input data in a way that each of them has information about other inputs.
+I have formed the input data in a way that each of them has information about other entities in the sequence.
 
 let's say the pdf file is this - 
 
