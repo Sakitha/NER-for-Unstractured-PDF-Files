@@ -17,4 +17,4 @@ x,v,j,l
 
 now x, v ,l is in the considering document.
 
-next im defining each of the word the pdf by the distances to the found cornerstone words in pdf.
+next im defining each of the word in the pdf as a vector of relative distances to those cornerstone words which are founded in the currant pdf(x , v , l).
