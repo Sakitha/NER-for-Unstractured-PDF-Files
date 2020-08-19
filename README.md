@@ -6,12 +6,13 @@ idea is from named entity recognition algorithm which tries to classify entities
 I have formed the input data in a way that each of them has information about other entities in the sequence.
 
 let's say the pdf file is this - 
+
 --------
 x k 
 
   v
-  
 l
+
 --------
 
 i have a predefined words set.these are the most used words in considered pdf file set.(cornerstone words) 
