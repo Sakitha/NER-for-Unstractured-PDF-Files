@@ -8,11 +8,14 @@ I have formed the input data in a way that each of them has information about ot
 let's say the pdf file is this - 
 
 x k 
+
   v
+  
 l
 
 
 i have predefined words set like this.these are the most used words in considered pdf files.(cornerstone words) 
+
 x,v,j,l
 
 now x, v ,l is in the considering document.
