@@ -1,5 +1,3 @@
-# Unstractured_PDF_DATA
-
 Original challenge was to extract entities (Name, Address, companies they worked, postions they held.. etc) from pdf resume files.
 
 For each entity in a resume the context comes from the section they resides within the resume. Neighboring entities gives context to each other.
